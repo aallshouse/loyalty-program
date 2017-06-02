@@ -1,0 +1,8 @@
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/bin/Debug/netcoreapp1.1/LoyaltyProgram.deps.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/bin/Debug/netcoreapp1.1/LoyaltyProgram.runtimeconfig.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/bin/Debug/netcoreapp1.1/LoyaltyProgram.runtimeconfig.dev.json
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/bin/Debug/netcoreapp1.1/LoyaltyProgram.dll
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/bin/Debug/netcoreapp1.1/LoyaltyProgram.pdb
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/obj/Debug/netcoreapp1.1/LoyaltyProgram.AssemblyInfo.cs
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/obj/Debug/netcoreapp1.1/LoyaltyProgram.dll
+/Users/andrewallshouse/SaveEverythingHere/dot-net-apps/LoyaltyProgram/obj/Debug/netcoreapp1.1/LoyaltyProgram.pdb
